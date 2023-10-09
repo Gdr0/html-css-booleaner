@@ -1,0 +1,21 @@
+:root {
+  background-color: white;
+}
+.box-logo {
+  background-image: url(img/pattern.png);
+  height: 180px;
+  background-color: dodgerblue;
+}
+#logo {
+  margin-top: 100px;
+  margin-left: 10px;
+  width: 13%;
+}
+.titolo {
+  margin: 0;
+}
+.credits-date {
+  margin: 0;
+  opacity: 0.8;
+  color: dimgrey;
+}
