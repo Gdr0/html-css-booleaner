@@ -19,3 +19,38 @@
   opacity: 0.8;
   color: dimgrey;
 }
+
+.decsrizione-img {
+  font-size: 12px;
+  margin: 0;
+}
+/* .box {
+  width: 100%;
+  margin: auto;
+} */
+.row-titolo {
+  background-color: rgb(96, 194, 255);
+  color: white;
+}
+.dolor-titolo {
+  width: 30%;
+
+  display: inline-block;
+}
+.dolor1 {
+  width: 30%;
+  display: inline-block;
+}
+.dolor {
+  width: 30%;
+  display: inline-block;
+}
+.paragrafo {
+  display: inline-block;
+  width: 30%;
+}
+.row,
+.row2 {
+  background-color: rgba(0, 255, 255, 0.37);
+  height: 80px;
+}
