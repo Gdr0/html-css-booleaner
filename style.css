@@ -37,10 +37,7 @@
 
   display: inline-block;
 }
-.dolor1 {
-  width: 30%;
-  display: inline-block;
-}
+
 .dolor {
   width: 30%;
   display: inline-block;
@@ -53,4 +50,14 @@
 .row2 {
   background-color: rgba(0, 255, 255, 0.37);
   height: 80px;
+}
+
+.info {
+  margin-top: 50px;
+  opacity: 0.5;
+}
+.img-footer {
+  margin: 0;
+  display: block;
+  margin-bottom: 10px;
 }
