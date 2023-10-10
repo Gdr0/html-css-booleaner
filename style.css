@@ -34,7 +34,6 @@
 }
 .dolor-titolo {
   width: 30%;
-
   display: inline-block;
 }
 
@@ -49,7 +48,6 @@
 .row,
 .row2 {
   background-color: rgba(0, 255, 255, 0.37);
-  height: 80px;
 }
 
 .info {
